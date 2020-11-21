@@ -10,7 +10,8 @@ This dataset consists of information regarding 183412 trip from Bay Wheels on Fe
 
 ## Summary of Findings
 
-> 1. In Feb, 2019, the average trip duration was 10 min approximately.
+
+ 1. In Feb, 2019, the average trip duration was 10 min approximately.
   2. Trips took place mainly at two time over the day, first at 8 am, and second at 5 pm.
   3. Member age didn't seem to affect the trip duration.
   4. The trip duration for customers is longer than that for subscribers regardless of day of week.
@@ -20,5 +21,4 @@ This dataset consists of information regarding 183412 trip from Bay Wheels on Fe
 
 ## Key Insights for Presentation
 
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
 For the presentation, I'll start by presenting the main characteristics of the dataset on hand, the distribution of features of interest ( trip duration, member gender, user type, trip start time, and member age). Then, I'll go through the main findings from the exploration showing that only user type feature seem to have strong relationship with the trip duration.
